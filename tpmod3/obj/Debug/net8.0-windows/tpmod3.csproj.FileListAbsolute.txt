@@ -1,0 +1,16 @@
+C:\Users\alienware\source\repos\tpmod3\tpmod3\bin\Debug\net8.0-windows\tpmod3.exe
+C:\Users\alienware\source\repos\tpmod3\tpmod3\bin\Debug\net8.0-windows\tpmod3.deps.json
+C:\Users\alienware\source\repos\tpmod3\tpmod3\bin\Debug\net8.0-windows\tpmod3.runtimeconfig.json
+C:\Users\alienware\source\repos\tpmod3\tpmod3\bin\Debug\net8.0-windows\tpmod3.dll
+C:\Users\alienware\source\repos\tpmod3\tpmod3\bin\Debug\net8.0-windows\tpmod3.pdb
+C:\Users\alienware\source\repos\tpmod3\tpmod3\obj\Debug\net8.0-windows\tpmod3.Form1.resources
+C:\Users\alienware\source\repos\tpmod3\tpmod3\obj\Debug\net8.0-windows\tpmod3.csproj.GenerateResource.cache
+C:\Users\alienware\source\repos\tpmod3\tpmod3\obj\Debug\net8.0-windows\tpmod3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alienware\source\repos\tpmod3\tpmod3\obj\Debug\net8.0-windows\tpmod3.AssemblyInfoInputs.cache
+C:\Users\alienware\source\repos\tpmod3\tpmod3\obj\Debug\net8.0-windows\tpmod3.AssemblyInfo.cs
+C:\Users\alienware\source\repos\tpmod3\tpmod3\obj\Debug\net8.0-windows\tpmod3.csproj.CoreCompileInputs.cache
+C:\Users\alienware\source\repos\tpmod3\tpmod3\obj\Debug\net8.0-windows\tpmod3.dll
+C:\Users\alienware\source\repos\tpmod3\tpmod3\obj\Debug\net8.0-windows\refint\tpmod3.dll
+C:\Users\alienware\source\repos\tpmod3\tpmod3\obj\Debug\net8.0-windows\tpmod3.pdb
+C:\Users\alienware\source\repos\tpmod3\tpmod3\obj\Debug\net8.0-windows\tpmod3.genruntimeconfig.cache
+C:\Users\alienware\source\repos\tpmod3\tpmod3\obj\Debug\net8.0-windows\ref\tpmod3.dll
